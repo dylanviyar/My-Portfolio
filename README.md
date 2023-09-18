@@ -1,6 +1,6 @@
 # Dylan's Data Discoveries 📚
 
-A portfolio of my data analytic works and projects!
+A portfolio of my data analysis works and projects!
 
 ## Table of Contents
 
