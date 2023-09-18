@@ -4,8 +4,6 @@ A portfolio of my data analysis works and projects!
 
 ## Table of Contents
 
----
-
 ### SQL 
 ---
 
