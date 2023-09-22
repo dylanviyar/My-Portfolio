@@ -6,6 +6,32 @@ A portfolio of my data analysis works and projects!
 - [SQL](#sql)
 - Excel & Google Sheets
 
+adsf
+
+adf
+ads
+fasd
+fa
+sdf
+asdf
+as
+dfa
+sdf
+asdf
+asd
+fa
+sdf
+adsf
+adsf
+ads
+fa
+sdf
+asdf
+asdf
+adsfa
+dfa
+sdf
+
 ### SQL 
 ---
 
