@@ -4,7 +4,7 @@ A portfolio of my data analysis works and projects!
 
 ## Table of Contents
 - [SQL](#sql)
-- [Excel & Google Sheets](#excel-and-google-sheets)
+- [Excel and Google Sheets](#excel-and-google-sheets)
 
 ### SQL 
 ---
