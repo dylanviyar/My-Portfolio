@@ -19,3 +19,4 @@ A portfolio of my data analysis works and projects!
 
 | Project Link  | Project Focus | Description | 
 | --- | --- | --- |
+|[Bike Consumer Analysis](https://github.com/dylanviyar/Excel-Projects/blob/main/BikeSaleAnalysis.md) | Spreadsheet Functions, Pivot Tables, Data Cleansing, Analysis and Visualization | Analyzing the bike consumer demographics to search for consumer trends to contribute marketing strategies backed by data |
