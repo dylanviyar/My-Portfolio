@@ -11,7 +11,7 @@ A portfolio of my data analysis works and projects!
 
 | Project Link  | Project Focus | Description | 
 | --- | --- | --- |
-| [Bellabeat Marketing Case Study](https://github.com/dylanviyar/Google-Analytics-Case-Study/blob/main/Bellabeat%20Case%20Study.md#-bellabeat-case-study-making-marketing-data-driven) | Data Cleansing, Analysis and Visualization|Determining trends in FitBit user data to provide data-driven marketing recommendations to a company trying to enter the wearble wellness fashion domain |
+| [Bellabeat Marketing Case Study](https://github.com/dylanviyar/Google-Analytics-Case-Study/blob/main/Bellabeat%20Case%20Study.md#-bellabeat-case-study-making-marketing-data-driven) | Data Cleansing, Analysis and Visualization |Determining trends in FitBit user data to provide data-driven marketing recommendations to a company trying to enter the wearble wellness fashion domain |
 
 
 ### Excel and Google Sheets 
@@ -20,3 +20,4 @@ A portfolio of my data analysis works and projects!
 | Project Link  | Project Focus | Description | 
 | --- | --- | --- |
 |[Bike Consumer Analysis](https://github.com/dylanviyar/Excel-Projects/blob/main/BikeSaleAnalysis.md) | Spreadsheet Functions, Pivot Tables, Data Cleansing, Analysis and Visualization | Analyzing bike consumer demographics to search for consumer trends to contribute marketing strategies backed by data |
+| [Music Analysis](https://github.com/dylanviyar/Excel-Projects/blob/main/MusicAnalysis.md) | Spreadsheet Functions, Pivot Tables, Data Cleansing, Analysis and Visualization | Analysis of the top Spotify streaming songs of 2023 to determine any trends in sucessful songs and provide insights to aspiring artists to promote song release success |
