@@ -12,6 +12,7 @@ A portfolio of my data analysis works and projects!
 | Project Link  | Project Focus | Description | 
 | --- | --- | --- |
 | [Bellabeat Marketing Case Study](https://github.com/dylanviyar/Google-Analytics-Case-Study/blob/main/Bellabeat%20Case%20Study.md#-bellabeat-case-study-making-marketing-data-driven) | Data Cleansing, Analysis and Visualization |Determining trends in FitBit user data to provide data-driven marketing recommendations to a company trying to enter the wearble wellness fashion domain |
+| [8 Week SQL Challenge (In Progress)](https://github.com/dylanviyar/8WeekSQLChallenge) | SQL Querying, Data Analysis, Solving Business Tasks | A series of 8 different case studies provided by the [Data with Danny Data Apprenticeship](https://8weeksqlchallenge.com/) utilizing advanced SQL queries to answer common business problems | 
 
 
 ### Excel and Google Sheets 
