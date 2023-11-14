@@ -4,9 +4,10 @@ A portfolio of my data analysis works and projects!
 
 ## Table of Contents
 - [SQL](#sql)
+- [Python]
 - [Excel and Google Sheets](#excel-and-google-sheets)
 
-### SQL 
+### SQL 🔁
 ---
 
 | Project Link  | Project Focus | Description | 
@@ -14,8 +15,14 @@ A portfolio of my data analysis works and projects!
 | [Bellabeat Marketing Case Study](https://github.com/dylanviyar/Google-Analytics-Case-Study/blob/main/Bellabeat%20Case%20Study.md#-bellabeat-case-study-making-marketing-data-driven) | Data Cleansing, Analysis and Visualization |Determining trends in FitBit user data to provide data-driven marketing recommendations to a company trying to enter the wearble wellness fashion domain |
 | [8 Week SQL Challenge](https://github.com/dylanviyar/8WeekSQLChallenge) (In Progress) | SQL Querying, Data Analysis, Solving Business Tasks | A series of 8 different case studies provided by the [Data with Danny Data Apprenticeship](https://8weeksqlchallenge.com/) utilizing advanced SQL queries to answer common business problems | 
 
+### Python 🐍
+---
 
-### Excel and Google Sheets 
+| Project Link  | Project Focus | Description | 
+| --- | --- | --- |
+| [Consumer Churn Analysis](https://github.com/dylanviyar/PythonChurnDataAnalysis/blob/main/AnalysisOverview.md) | Data Analysis, Data Visualization, JSON Data, Pandas | Understanding customer cancellation habits through various Tiers with exploratory data analysis using Python, Pandas and visualization through Tableau |
+
+### Excel and Google Sheets 📊
 ---
 
 | Project Link  | Project Focus | Description | 
