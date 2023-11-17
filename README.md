@@ -5,7 +5,7 @@ A portfolio of my data analysis works and projects!
 ## Table of Contents
 - [SQL](#sql-)
 - [Python](#python-)
-- [Tableau]
+- [Tableau](#tableau-%EF%B8%8F)
 - [Excel and Google Sheets](#excel-and-google-sheets-)
 
 ### SQL 🔁
