@@ -5,6 +5,7 @@ A portfolio of my data analysis works and projects!
 ## Table of Contents
 - [SQL](#sql-)
 - [Python](#python-)
+- [Tableau]
 - [Excel and Google Sheets](#excel-and-google-sheets-)
 
 ### SQL 🔁
@@ -21,6 +22,11 @@ A portfolio of my data analysis works and projects!
 | Project Link  | Project Focus | Description | 
 | --- | --- | --- |
 | [Consumer Churn Analysis](https://github.com/dylanviyar/PythonChurnDataAnalysis/blob/main/AnalysisOverview.md) | Data Analysis, Data Visualization, JSON Data, Pandas | Understanding customer cancellation habits through various Tiers with exploratory data analysis using Python, Pandas and visualization through Tableau |
+
+### Tableau 🖋️
+| Project Link  | Project Focus | Description | 
+| --- | --- | --- |
+| [AirBnB Analysis Dashboard](https://github.com/dylanviyar/TableauDashboards/blob/main/AirBnBAnalysis.md) | Dashboarding, Data Visualization, Data Analysis| Creating a Tableau Dashboard to easily determine trends and encourage data-driven decision making while using AirBnB |
 
 ### Excel and Google Sheets 📊
 ---
